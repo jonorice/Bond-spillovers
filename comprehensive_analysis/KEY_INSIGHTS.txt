@@ -1,0 +1,27 @@
+======================================================================
+KEY INSIGHTS: EURO AREA BOND YIELD SPILLOVERS
+======================================================================
+
+Methodology: Generalized FEVD (Diebold-Yilmaz 2012, order-invariant)
+VAR specification: 4 lags, 10-day horizon
+Rolling window: 200 trading days
+Sample: 1995-10-10 to 2025-12-09
+
+----------------------------------------------------------------------
+
+1. SPILLOVER INTENSITY: Average total spillover was 60.6% pre-2015 vs 65.6% post-2020 (+8% change)
+
+2. US DOMINANCE: Peak US→EA spillover was 15.6% on 2023-12-19 (Fed hiking cycle)
+
+3. EXTERNAL VS INTERNAL: On average, 8.3% of EA yield variance comes from external sources vs 13.8% from within EA
+
+4. NET POSITIONS: FR is the largest net transmitter (22.6), ES is the largest net receiver (-39.0)
+
+5. FRAGMENTATION: EA periphery (IT, ES) is a net transmitter to core only 0% of the time - usually receives more spillovers
+
+6. REGIME VARIATION: Highest spillovers during 'Tightening (2022-2023)', lowest during 'Pre-Draghi (2010-2012)'
+
+7. JAPAN EFFECT: JP→EA spillovers averaged 1.7% pre-2022 vs 2.4% in 2022-23 (BoJ YCC adjustments)
+
+8. POST-BREXIT UK: UK→EA spillovers were 13.0% pre-Brexit vs 11.4% post-2020 (-12%)
+
